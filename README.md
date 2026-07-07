@@ -1,6 +1,6 @@
 # skills-sh-publisher
 
-[![skills.sh](https://skills.sh/b/akirousnow/skills-sh-publisher)](https://skills.sh/akirousnow/skills-sh-publisher)
+[![skills.sh](https://skills.sh/b/akirousnow/skills-sh-publisher-skills)](https://skills.sh/akirousnow/skills-sh-publisher-skills)
 
 一个 Agent Skill，教你**正确地把 Skill 发布到 [skills.sh](https://skills.sh)**。
 
@@ -13,13 +13,13 @@
 ## 安装
 
 ```bash
-npx skills add akirousnow/skills-sh-publisher
+npx skills add akirousnow/skills-sh-publisher-skills
 ```
 
 或克隆后手动引用：
 
 ```bash
-git clone https://github.com/akirousnow/skills-sh-publisher.git
+git clone https://github.com/akirousnow/skills-sh-publisher-skills.git
 ```
 
 ## 仓库结构
